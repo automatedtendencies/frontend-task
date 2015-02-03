@@ -8,4 +8,4 @@ Here's an example api call [https://demo.kazoup.com/api/search/?term=document&fr
 
 Please add the source of this demo task and a README to github and send us link to review.
 
-[Preview](designs/preview.png)
+![Preview](designs/preview.png)
