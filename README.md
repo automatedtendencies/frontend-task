@@ -8,5 +8,5 @@ Here's an example api call [https://demo.kazoup.com/api/search/?term=document&fr
 
 Please add the source of this demo task and a README to github and send us link to review.
 
-## App design preview
+#### App design preview
 ![Preview](designs/preview.png)
